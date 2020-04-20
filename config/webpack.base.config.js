@@ -57,6 +57,14 @@ module.exports = (env) => {
         chunkFilename: './[name].chunk.bundle.js',
         path: path.resolve(__dirname, '..', 'build/public/'),
       },
+      devServer: {
+        host: '0.0.0.0',
+        publicPath: '/',
+        contentBase: path.resolve(__dirname, './public/'),
+        watchContentBase: true,
+        compress: true,
+        port: 3000,
+      },
     },
   ]);
 };
