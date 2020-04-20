@@ -89,6 +89,7 @@ For accomplish the integration between all the tools, i read some other tutorial
 - [Configure prettier](https://prettier.io/docs/en/configuration.html).
 - An overall tutorial that aim the same goal: [setting up a minimal react app.](https://dev.to/th3n0m4d/setting-up-a-minimal-react-app-from-scratch-part-1-3-k5m).
 - More about [Webpack.](https://webpack.js.org/).
+- An useful article about [Webpack-devServer live reload config](https://medium.com/code-oil/burning-questions-with-answers-to-why-webpack-dev-server-live-reload-does-not-work-6d6390277920)
 - Some material about a [ good file structure](https://medium.com/@Charles_Stover/optimal-file-structure-for-react-applications-f3e35ad0a145).
 - An interesting and useful article about using [lint-staged and husky](https://codeburst.io/continuous-integration-lint-staged-husky-pre-commit-hook-test-setup-47f8172924fc).
 - And some about [react best practices](https://towardsdatascience.com/react-best-practices-804def6d5215).
