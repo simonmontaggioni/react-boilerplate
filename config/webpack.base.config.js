@@ -12,7 +12,7 @@ module.exports = (env) => {
     {
       entry: ['@babel/polyfill', APP_DIR],
       resolve: {
-        extensions: ['.js', '.jsx'],
+        extensions: ['.js', '.jsx', '.scss'],
       },
       module: {
         rules: [
