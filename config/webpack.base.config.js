@@ -60,7 +60,7 @@ module.exports = (env) => {
       devServer: {
         host: '0.0.0.0',
         publicPath: '/',
-        contentBase: path.resolve(__dirname, './public/'),
+        contentBase: path.resolve(__dirname, '../public/'),
         watchContentBase: true,
         compress: true,
         port: 3000,
